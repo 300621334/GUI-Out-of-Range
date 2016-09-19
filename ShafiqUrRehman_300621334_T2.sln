@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSelector", "ShafiqUrRehman_300621334_T2.1\TeamSelector.csproj", "{AB4DC6D1-0910-46DA-BB92-40B54657F4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopGo", "ShafiqUrRehman_300621334_T2.2\StopGo.csproj", "{5110AC11-1EB7-4405-AC20-F809483B34EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Of_Range", "Out_Of_Range\Out_Of_Range.csproj", "{D378ACAD-E68E-4878-A6D1-634330F09936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4DC6D1-0910-46DA-BB92-40B54657F4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4DC6D1-0910-46DA-BB92-40B54657F4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4DC6D1-0910-46DA-BB92-40B54657F4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4DC6D1-0910-46DA-BB92-40B54657F4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5110AC11-1EB7-4405-AC20-F809483B34EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5110AC11-1EB7-4405-AC20-F809483B34EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5110AC11-1EB7-4405-AC20-F809483B34EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5110AC11-1EB7-4405-AC20-F809483B34EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D378ACAD-E68E-4878-A6D1-634330F09936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D378ACAD-E68E-4878-A6D1-634330F09936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D378ACAD-E68E-4878-A6D1-634330F09936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D378ACAD-E68E-4878-A6D1-634330F09936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
